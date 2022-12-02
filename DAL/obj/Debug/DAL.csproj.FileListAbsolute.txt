@@ -1,0 +1,6 @@
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\bin\Debug\DAL.dll
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\bin\Debug\DAL.pdb
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\obj\Debug\DAL.dll
+C:\Users\Yorlan Rodriguez .E\source\repos\Proyecto_Progra_IV\DAL\obj\Debug\DAL.pdb
