@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Mantenimientos\" />
-    <Folder Include="Try\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
